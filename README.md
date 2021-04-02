@@ -6,3 +6,4 @@ goals
 - eJPT
 - CRTP
 - OSCP
+- CRTE
