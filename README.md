@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @fatah
-- 👀 I’m interested in penetration testing
-- 🌱 I’m currently learning CTF
-- 💞️ I’m looking to collaborate with someone that can guide me on this journey :)
-- 📫 I'm active on twitter , you can hmu ( username : @0xcookies)
+ I’m interested in penetration testing and i believe nothing is impossible > " IF YOU BELIEVE YOU CAN ACHIEVE " :)
+
