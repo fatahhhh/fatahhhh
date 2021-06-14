@@ -4,5 +4,5 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cookies Spotify Playing" width="350" />](https://open.spotify.com/playlist/37i9dQZF1DX6XceWZP1znY)
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Cookies Spotify Playing" width="350" />](https://open.spotify.com/album/4hAlZU3JXoThQ3jnF4CGiZ?si=rnpmz6cUTo6xDEGHhuqkOw&dl_branch=1)
 
