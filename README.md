@@ -2,7 +2,7 @@
 
 I'm currently student in network security course and my interest is more to red-teaming and capture the flag (CTF) 🚩
 
-## About Me
+## About Me<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 <a href="https://twitter.com/0xcookies">
   <img align="left" alt="cookies | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
